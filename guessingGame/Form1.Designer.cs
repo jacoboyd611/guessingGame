@@ -46,14 +46,14 @@
             // 
             // input
             // 
-            this.input.Location = new System.Drawing.Point(197, 133);
+            this.input.Location = new System.Drawing.Point(205, 142);
             this.input.Name = "input";
             this.input.Size = new System.Drawing.Size(42, 20);
             this.input.TabIndex = 1;
             // 
             // guessButton
             // 
-            this.guessButton.Location = new System.Drawing.Point(175, 195);
+            this.guessButton.Location = new System.Drawing.Point(184, 179);
             this.guessButton.Name = "guessButton";
             this.guessButton.Size = new System.Drawing.Size(85, 41);
             this.guessButton.TabIndex = 2;
@@ -63,10 +63,10 @@
             // 
             // outputLabel
             // 
-            this.outputLabel.AutoSize = true;
-            this.outputLabel.Location = new System.Drawing.Point(204, 280);
+            this.outputLabel.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.outputLabel.Location = new System.Drawing.Point(154, 249);
             this.outputLabel.Name = "outputLabel";
-            this.outputLabel.Size = new System.Drawing.Size(0, 13);
+            this.outputLabel.Size = new System.Drawing.Size(145, 21);
             this.outputLabel.TabIndex = 3;
             // 
             // Form1
